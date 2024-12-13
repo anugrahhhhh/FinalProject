@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "461671742442",
+    "firebase_url": "https://uasanugrah-default-rtdb.firebaseio.com",
+    "project_id": "uasanugrah",
+    "storage_bucket": "uasanugrah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461671742442:android:523574b2a98a4667e1d093",
+        "android_client_info": {
+          "package_name": "com.anugrah.proyekakhir_anugrahputraaf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdrjD7o510e1kblWcIseVttQ9THp0eO7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
